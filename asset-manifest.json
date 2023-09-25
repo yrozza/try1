@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/try1/static/css/main.6b21c2ef.css",
+    "main.js": "/try1/static/js/main.adda1148.js",
+    "static/media/teamImg.jpg": "/try1/static/media/teamImg.9a24ba3a8c28b14f78e7.jpg",
+    "static/media/nike.jpg": "/try1/static/media/nike.767417bea17688d6d8ce.jpg",
+    "static/media/sunglasses.jpg": "/try1/static/media/sunglasses.e93f12ec1b20980a1bd1.jpg",
+    "static/media/nayora.jpg": "/try1/static/media/nayora.c803199e86ca5f04c6d9.jpg",
+    "static/media/watch.jpg": "/try1/static/media/watch.be6bce80c539b3222473.jpg",
+    "static/media/sharkawy.jpg": "/try1/static/media/sharkawy.d867bb2f72a21df6bda0.jpg",
+    "static/media/jomana.jpg": "/try1/static/media/jomana.69540340127b92d4578d.jpg",
+    "static/media/jeans.jpg": "/try1/static/media/jeans.e28dd83d2e35e4877fff.jpg",
+    "static/media/nour.jpg": "/try1/static/media/nour.8f02e46b4d40e760f082.jpg",
+    "static/media/rozza.jpg": "/try1/static/media/rozza.9cbb7e2deff90ed60a6a.jpg",
+    "static/media/ziad.jpg": "/try1/static/media/ziad.6d635bfd5f743bfcc88f.jpg",
+    "static/media/tayseer.jpg": "/try1/static/media/tayseer.b9fd9f6a5ff42d1c4c93.jpg",
+    "static/media/shirts.jpg": "/try1/static/media/shirts.272f98313dc651e33b1e.jpg",
+    "static/media/bag.jpg": "/try1/static/media/bag.f659bad1644f39edf3b1.jpg",
+    "static/media/Ammar1.jpg": "/try1/static/media/Ammar1.f49995d9d18df010b93e.jpg",
+    "static/media/coat.jpg": "/try1/static/media/coat.953f10cd535b4db1cc77.jpg",
+    "static/media/adidasss.jpg": "/try1/static/media/adidasss.dbab76d2cb47111eb57e.jpg",
+    "static/media/suit.jpg": "/try1/static/media/suit.dff899f3ada9e57e6a76.jpg",
+    "index.html": "/try1/index.html",
+    "main.6b21c2ef.css.map": "/try1/static/css/main.6b21c2ef.css.map",
+    "main.adda1148.js.map": "/try1/static/js/main.adda1148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b21c2ef.css",
+    "static/js/main.adda1148.js"
+  ]
+}
